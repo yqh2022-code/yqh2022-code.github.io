@@ -1,4 +1,4 @@
-<head><title>Looking Forward 的博客</title></head>
+<title>Looking Forward 的博客</title>
 
 ## 专栏：
 ## <a href="https://yqh2022-code.github.io/hack">     HACK</a>
