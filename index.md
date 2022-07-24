@@ -1,5 +1,4 @@
-<title>Looking Forward 的博客</title>
-
+# Looking Foward 的博客
 ## 专栏：
 ## <a href="https://yqh2022-code.github.io/hack">     HACK</a>
 ## <a href="https://yqh2022-code.github.io/operating_system">    操作系统</a>
