@@ -1,5 +1,5 @@
 <h1><center>操作系统自学之路————0.0.1</h1>
-<h2><center>资料+大纲</center><h2>
+<h2><center>大纲和资料</center></h2>
 Hello大家好，我是Looking foward.
 
 这是我的操作系统系列自学内容的第1篇。啥也不说，先看大纲
