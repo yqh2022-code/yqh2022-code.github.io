@@ -1,4 +1,4 @@
-<h1><center>操作系统自学之路————0.0.1</h1>
+<h1><center>操作系统自学之路————0.0.1</center></h1>
 <h2><center>大纲和资料</center></h2>
 Hello大家好，我是Looking foward.
 
